@@ -1,4 +1,4 @@
-package com.example.simulacion_plaplix.model
+package com.example.simulacion_plaplix.model.pojos
 
 
 import com.google.gson.annotations.SerializedName
